@@ -24,6 +24,7 @@
 # path2 = sid
 # path_all = path1 + path2
 #
+
 # print(path_all)
 #
 # # 文件夹操作
@@ -42,6 +43,8 @@
 #     mkdir(path_all)
 
 # 将双斜杠变成单斜杠
-path = r'C:\\Users\\lenovo\\Desktop\\test_old\\sid.jpg'
-path1 = path.replace("\\\\", "\\", 5)
-print(path1)
+# path = r'C:\\Users\\lenovo\\Desktop\\test_old\\sid.jpg'
+# path1 = path.replace("\\\\", "\\", 5)
+# print(path1)
+
+
